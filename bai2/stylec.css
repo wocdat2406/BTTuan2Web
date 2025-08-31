@@ -120,3 +120,9 @@
     margin-left: 20px;
     font-size: 20px;
 }
+
+#footer {
+    background: gray;
+    padding: 15px 0px;
+    color: #fff;
+}
