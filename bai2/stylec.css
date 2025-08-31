@@ -63,3 +63,60 @@
 #nav a:hover {
     color: #000;
 }
+
+#content-left {
+    flex-basis: 18%;
+}
+
+#box1{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 5px 5px;
+    margin-left: 5px;
+    background: #fff;
+}
+
+#box2{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 5px 5px;
+    margin-left: 5px;
+    background: #fff;
+}
+
+#contetn-between {
+    flex-basis: 40%;
+}
+
+#content-between #paragraph1 {
+    margin: 35px 0 0 20px;
+    width: 340px;
+}
+
+#content-between #paragraph2 {
+    margin: 120px 0 0 20px;
+    width: 340px;
+}
+
+#content-right {
+    flex-basis: 30%;
+    border-left: 1px solid #ddd;
+}
+
+#content-right #heading {
+    color: #e9798a;
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#content-right #par {
+    color: #e9798a;
+    font-size: 20px;
+    line-height: 3;
+    margin-left: 25px;
+}
+
+#content-right #contact #par2 {
+    margin-left: 20px;
+    font-size: 20px;
+}
