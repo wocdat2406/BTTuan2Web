@@ -59,3 +59,21 @@ h1 {
     background: white;
     cursor: pointer;
 }
+
+#starters {
+    background-color:rgb(245, 245, 220);
+    font-size: 35px;
+    color: #a52a2a;
+}
+
+#desserts{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(245, 245, 220);
+    font-size: 35px;
+    color: #a52a2a;
+}
+
+#btt {
+    margin: 0;
+}
